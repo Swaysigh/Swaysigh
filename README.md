@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swayam, A Student of CSVTU-UTD</h1>
-<h3 align="center">I am passionate and curious student pursuing Data Science.</h3>
+<h3 align="center">I am passionate and curious and pursuing Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaysigh&label=Profile%20views&color=0e75b6&style=flat" alt="swaysigh" /> </p>
 
